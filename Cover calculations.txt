@@ -1,0 +1,28 @@
+page: 28.57 cm + 0.48 cm = 29.05 cm
+      29.05 x 22.22
+aspect: 1.3073807380738073807380738073807
+
+source image: 3032 x 1986 pixels
+aspect: 1.5266868076535750251762336354481
+
+target: 3032 x y => 3032 x 2319
+    or: x x 1986 => 2596 x 1986
+
+without bleed: 21.59 cm
+with bleed: 22.22 cm
+total bleed: 0.63 cm
+bleed on each edge: 0.315 cm (0.125 inches == 0.3175 cm)
+
+bleed: 0.3175 cm
+
+at 3032 x 2319, 3032 == 29.05 cm => 104.37177280550774526678141135972 pel/cm
+
+0.3175 cm => 33.138 pel
+
+spine: 50.098450946643717728055077452656 pels (0.48 cm)
+
+danger ("trim") zone: 1.27 cm == 132.55215146299483648881239242682 pels
+
+center 1018 in 1572 => (1572 - 1018) / 2 = 554 / 2 = 277 pels on each side
+
+left edge starts at 112 => 112 + 277 = 389 offset for blurb box
