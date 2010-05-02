@@ -1,0 +1,28 @@
+- another ISV ship finds the "space gun"
+  => people, equipment abruptly disappearing while investigating the gun
+  => gun not in operational form
+
+- adam & chali + denis & planet populate "the planet"
+  => decide on a name
+  => planet hears other ISV's broadcast (or space gun's broadcast in response to other ISV's presence) and travels to space gun
+  => the reason the planet goes to the space gun is that the race that built the space gun was responsible for the "bug" in the code
+     that resulted in integration to fail catastrophically. when the other ISV ship reaches the space gun and inadvertantly activates
+     it, the planet detects subtle changes in the "harmonics of space" or somesuch -- an "alarm system"
+  => eventually, denis finds a way to "unintegrate" people, reconstituting them, possibly with help from the progenitors on the other side of the space gun
+
+- earth system's economy fails
+  => virtually nobody left with the resources to create ship-size space bubble generators
+  => hacking of nanohulls in order to steal bubble generators
+  => a nanohull earth ship survives because a hacker with Denis-like abilities is on board, fighting the attackers
+  => the hull freezes solid, but stops accepting ANY commands, leaving them on an oddly-shaped ship with some inaccessible compartments
+  => *that* ship is what goes to the space gun
+
+- earth expedition meets up with and/or finds "the planet" at the space gun
+  => secretly developed weapons
+  => attempts to take control of the planet
+
+- to be revealed: why the progenitors were so afraid of the planet people that they hacked their integration process and fled the galaxy (femtotech?)
+
+- ???
+
+- profit!
