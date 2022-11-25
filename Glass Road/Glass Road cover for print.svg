@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="232.89999mm"
+   height="174.625mm"
+   viewBox="0 0 232.89999 174.625"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="Glass Road cover for print.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="1"
+     inkscape:cx="201.5"
+     inkscape:cy="231.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="22"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="false"
+     inkscape:snap-page="true">
+    <sodipodi:guide
+       position="127.306,174.625"
+       orientation="-1,0"
+       id="guide838"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="107.95,174.625"
+       orientation="-1,0"
+       id="guide840"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,174.625"
+       orientation="-1,0"
+       id="guide842"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="232.9,174.625"
+       orientation="-1,0"
+       id="guide844"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="178.91,174.625"
+       orientation="-1,0"
+       id="guide846"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(153,193,241)" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath952">
+      <rect
+         style="stroke-width:1.8"
+         id="rect954"
+         width="107.98"
+         height="223.79846"
+         x="124.92"
+         y="-31.644415" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1164">
+      <rect
+         style="stroke-width:1.8"
+         id="rect1166"
+         width="107.95"
+         height="240.95508"
+         x="0"
+         y="-44.225929" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Blur"
+       id="filter1386"
+       x="-0.027487473"
+       y="-0.027487473"
+       width="1.0549749"
+       height="1.0549749">
+      <feColorMatrix
+         values="0.576687 0 0 0.333716 0.211656 0 0.576687 0 0.333716 0.211656 0 0 0.576687 0.333716 0.211656 0 0 0 1 0"
+         id="feColorMatrix1384"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix1458" />
+      <feGaussianBlur
+         id="feGaussianBlur1460"
+         stdDeviation="2 2"
+         result="blur"
+         in="fbSourceGraphic" />
+    </filter>
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <image
+       width="174.625"
+       height="174.625"
+       preserveAspectRatio="none"
+       xlink:href="Glass%20Road%20cover%20by%20DALL-E.png"
+       id="image832"
+       x="92.71627"
+       y="0"
+       clip-path="url(#clipPath952)"
+       transform="translate(2.3860018)" />
+    <rect
+       style="fill:#ececec;stroke-width:1.92229"
+       id="rect40719"
+       width="19.372999"
+       height="174.625"
+       x="107.95"
+       y="-2.2234844e-06" />
+    <image
+       width="174.625"
+       height="174.625"
+       preserveAspectRatio="none"
+       xlink:href="DALL-E%20Images/DALL%C2%B7E%202022-11-25%2010.34.12%20-%20a%20distant%20abandoned%20city%20in%20the%20desert%20in%20a%20valley%20with%20rolling%20hills%20around%20it.png"
+       id="image976"
+       x="-40"
+       y="0"
+       clip-path="url(#clipPath1164)"
+       style="filter:url(#filter1386)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14.1111px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="136.20757"
+       y="28.213093"
+       id="text2890"><tspan
+         sodipodi:role="line"
+         id="tspan2888"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:Orbitron;-inkscape-font-specification:'Orbitron Bold';stroke-width:0.264583"
+         x="136.20757"
+         y="28.213093">Glass Road</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="208.86005"
+       y="94.439842"
+       id="text6553"><tspan
+         sodipodi:role="line"
+         id="tspan6551"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Orbitron;-inkscape-font-specification:Orbitron;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="208.86005"
+         y="94.439842">Jonathan Gilbert</tspan></text>
+    <g
+       id="g15907"
+       transform="matrix(0.72318339,0,0,0.72318339,27.758362,36.539963)">
+      <rect
+         style="fill:#ffffff;stroke-width:1.7741"
+         id="rect15679"
+         width="76.464584"
+         height="40.481251"
+         x="23.8125"
+         y="124.35416" />
+      <image
+         width="72.460838"
+         height="39.617043"
+         preserveAspectRatio="none"
+         xlink:href="Barcode_978-0-9865276-2-3.png"
+         id="image15503"
+         x="25.814373"
+         y="125.38157" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.2889px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="12.938656"
+       y="-113.25138"
+       id="text16223"
+       transform="rotate(90)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;font-family:Orbitron;-inkscape-font-specification:'Orbitron Bold';stroke-width:0.264583"
+         x="12.938656"
+         y="-113.25138"
+         id="tspan18021"><tspan
+   style="font-size:9.525px"
+   id="tspan28893">Glass Road</tspan>   <tspan
+   style="font-weight:normal"
+   id="tspan26167">|  </tspan> <tspan
+   style="font-weight:normal;font-size:6.35px"
+   id="tspan18941">J. Gilbert</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:3.28631px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.223748"
+       x="110.81709"
+       y="161.58194"
+       id="text40684"><tspan
+         sodipodi:role="line"
+         x="110.81709"
+         y="161.58194"
+         id="tspan40682"
+         style="stroke-width:0.223748"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:3.28631px;font-family:Calibri;fill:#000000;stroke-width:0.223748"
+           id="tspan40680"> </tspan></tspan></text>
+    <image
+       width="11.921"
+       height="6.6020408"
+       preserveAspectRatio="none"
+       xlink:href="tattoo-trans.png"
+       id="image865"
+       x="111.676"
+       y="158.362" />
+  </g>
+</svg>
