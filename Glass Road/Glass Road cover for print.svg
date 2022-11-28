@@ -26,16 +26,16 @@
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
-     inkscape:zoom="2"
-     inkscape:cx="706.75"
-     inkscape:cy="780.75"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="420.72853"
+     inkscape:cy="447.59859"
      inkscape:window-width="1920"
      inkscape:window-height="1027"
      inkscape:window-x="-8"
      inkscape:window-y="22"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      inkscape:snap-bbox="false"
      inkscape:snap-page="true"
      units="in"
@@ -78,6 +78,12 @@
   </sodipodi:namedview>
   <defs
      id="defs2">
+    <rect
+       x="31.112698"
+       y="89.095454"
+       width="286.79603"
+       height="370.8671"
+       id="rect3761" />
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath952">
@@ -167,6 +173,28 @@
        height="180.983"
        x="111.129"
        y="1.3245361e-07" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.76111px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:81.4558;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="18.25625"
+       y="26.722916"
+       id="text47767"
+       transform="matrix(1.0032726,0,0,1.0190098,-2.9707456,7.8050337)"><tspan
+         x="18.25625"
+         y="26.722916"
+         id="tspan52687"><tspan
+           style="font-family:Arsenal;-inkscape-font-specification:Arsenal"
+           id="tspan52685">Ancient, incomprehensible </tspan></tspan><tspan
+         x="18.25625"
+         y="36.714027"
+         id="tspan52691"><tspan
+           style="font-family:Arsenal;-inkscape-font-specification:Arsenal"
+           id="tspan52689">technology, and a plan set </tspan></tspan><tspan
+         x="18.25625"
+         y="46.705139"
+         id="tspan52695"><tspan
+           style="font-family:Arsenal;-inkscape-font-specification:Arsenal"
+           id="tspan52693">in motion long ago</tspan></tspan></text>
     <image
        width="174.625"
        height="174.625"
@@ -202,7 +230,7 @@
          y="97.618843">Jonathan Gilbert</tspan></text>
     <g
        id="g15907"
-       transform="matrix(0.72318339,0,0,0.72318339,30.937362,39.718963)">
+       transform="matrix(0.51557094,0,0,0.51557094,51.756134,84.55807)">
       <rect
          style="fill:#ffffff;stroke-width:1.7741"
          id="rect15679"
@@ -260,5 +288,67 @@
        id="image865"
        x="114.855"
        y="161.541" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,7.4083335,41.27502)"
+       id="text3759"
+       style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect3761);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="31.113281"
+         y="103.69299"
+         id="tspan52699"><tspan
+           style="font-family:'Eras Medium ITC';-inkscape-font-specification:'Eras Medium ITC'"
+           id="tspan52697">A mysterious plague leaves Bennin </tspan></tspan><tspan
+         x="31.113281"
+         y="124.39826"
+         id="tspan52703"><tspan
+           style="font-family:'Eras Medium ITC';-inkscape-font-specification:'Eras Medium ITC'"
+           id="tspan52701">alone in the world. He journeys far and </tspan></tspan><tspan
+         x="31.113281"
+         y="145.10354"
+         id="tspan52707"><tspan
+           style="font-family:'Eras Medium ITC';-inkscape-font-specification:'Eras Medium ITC'"
+           id="tspan52705">wide to the intersection of old and new </tspan></tspan><tspan
+         x="31.113281"
+         y="165.80882"
+         id="tspan52711"><tspan
+           style="font-family:'Eras Medium ITC';-inkscape-font-specification:'Eras Medium ITC'"
+           id="tspan52709">worlds, meets up with a girl who is also </tspan></tspan><tspan
+         x="31.113281"
+         y="186.51409"
+         id="tspan52715"><tspan
+           style="font-family:'Eras Medium ITC';-inkscape-font-specification:'Eras Medium ITC'"
+           id="tspan52713">on a quest to discover her identity, and </tspan></tspan><tspan
+         x="31.113281"
+         y="207.21937"
+         id="tspan52719"><tspan
+           style="font-family:'Eras Medium ITC';-inkscape-font-specification:'Eras Medium ITC'"
+           id="tspan52717">they learn about themselves and their </tspan></tspan><tspan
+         x="31.113281"
+         y="227.92465"
+         id="tspan52723"><tspan
+           style="font-family:'Eras Medium ITC';-inkscape-font-specification:'Eras Medium ITC'"
+           id="tspan52721">world as they go.</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.76111px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:81.4558;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="18.25625"
+       y="26.722916"
+       id="text19456"
+       transform="translate(-2.6458334,8.4666671)"><tspan
+         x="18.25625"
+         y="26.722916"
+         id="tspan52727"><tspan
+           style="font-family:Arsenal;-inkscape-font-specification:Arsenal"
+           id="tspan52725">Ancient, incomprehensible </tspan></tspan><tspan
+         x="18.25625"
+         y="36.714027"
+         id="tspan52731"><tspan
+           style="font-family:Arsenal;-inkscape-font-specification:Arsenal"
+           id="tspan52729">technology, and a plan set </tspan></tspan><tspan
+         x="18.25625"
+         y="46.705139"
+         id="tspan52735"><tspan
+           style="font-family:Arsenal;-inkscape-font-specification:Arsenal"
+           id="tspan52733">in motion long ago</tspan></tspan></text>
   </g>
 </svg>
